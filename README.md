@@ -10,9 +10,7 @@
 
 ### 📫 Contacts:
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5511959390044) 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusoliveira353jr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-pinheiro-de-oliveira-26b587265?trk=people-guest_people_search-card)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](in/felipe-dos-santos-aguiar-pereira-9a3a7624a)
 
 ### 🏢 Office:
 
