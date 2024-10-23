@@ -1,4 +1,4 @@
-## Hello World! bem vindo ao meu espaço, me chamo Felipe, e esse é um sobre mim
+## Hello World! bem vindo ao meu espaço, me chamo Felipe, e esse é um pouco sobre mim
 
 🌱 Estudo atualemnte TEI (tecnico em informatica) para um dia me tornar um desenvolvedor full stack.
 
