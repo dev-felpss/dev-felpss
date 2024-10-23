@@ -1,66 +1,46 @@
-## Hello World! Welcome to my technology space. 👋 My name is Felipe Pereira
+## Hello World! bem vindo ao meu espaço, me chamo Felipe, e esse é um sobre mim
 
-🌱 I am currently studying to become a Computer Technician. In this course, I am learning about networks and infrastructure, operating systems, and development.
+🌱 Estudo atualemnte TEI (tecnico em informatica) para um dia me tornar um desenvolvedor full stack.
 
-🎓 I'm taking this course at SENAC Tatuapé.
+🎓 Estudo no SENAC Tatuapé.
 
-📱 Currently Working At: Claro SA
+🗺 Moro em São Paulo, SP - Brasil.
 
-🗺 I live in São Paulo, SP - Brazil.
-
-### 📫 Contacts:
+### 📫 Contato:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](in/felipe-dos-santos-aguiar-pereira-9a3a7624a)
 
-### 🏢 Office:
 
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
-[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/powerpoint)
-[![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/word)
-[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com)
+### 📚 Apredendo:
 
-### 📚 Learning:
-
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A7D?style=for-the-badge&logo=oracle&logoColor=white)](https://www.virtualbox.org)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3D?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-[![Debian](https://img.shields.io/badge/Debian-A81D24?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/powershell/)
-[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org)
-[![Windows](https://img.shields.io/badge/Windows-00A4EF?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Cisco](https://img.shields.io/badge/Cisco-0056A0?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com)
-
-### 🎮 My Favorite Hobbies:
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A7D?style=for-the-badge&logo=oracle&logoColor=white)]
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3D?style=for-the-badge&logo=linux-mint&logoColor=white)]
+[![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]
+[![HTML](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
 
 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
-[![League of Legends](https://img.shields.io/badge/League%20of%20Legends-FF4654?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.leagueoflegends.com)
-[![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://www.netflix.com)
-[![Life is Strange](https://img.shields.io/badge/Life%20is%20Strange-1E90FF?style=for-the-badge&logo=life-is-strange&logoColor=white)](https://www.lifeisstrange.com)
-[![The Last of Us](https://img.shields.io/badge/The%20Last%20of%20Us-0E5E6C?style=for-the-badge&logo=the-last-of-us&logoColor=white)](https://www.thelastofus.playstation.com)
 
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspoliveiraa&layout=compact&theme=radical)](https://github.com/seuusuario)
+### 🎮 Meus HOBBIES:
 
-## GitHub Stats
+
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.spotify.com)]
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv)]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)]
+[![VALORANT](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://playvalorant.com/pt-br/)]
+[![Rocket League](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.rocketleague.com/pt-br)]
+
+
+
+
+
+
+### 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-felpss&show_icons=true&theme=radical)
 
 <img src="https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif?cid=790b7611cgez05fmbv48vlihp0nt8t39rs2vrgjbgdv25p5u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cool GIF" width="500"/>
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 
-<!--
-**dev-felpss/dev-felpss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
