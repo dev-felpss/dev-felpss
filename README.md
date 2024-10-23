@@ -1,4 +1,4 @@
-## Hello World! Welcome to my technology space. 👋 My name is Matheus Pinheiro
+## Hello World! Welcome to my technology space. 👋 My name is Felipe Pereira
 
 🌱 I am currently studying to become a Computer Technician. In this course, I am learning about networks and infrastructure, operating systems, and development.
 
