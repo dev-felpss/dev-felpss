@@ -3,7 +3,7 @@
   <img src="https://visitcount.itsvg.in/api?id=dev-felpss&label=Profile%20Views&color=1&icon=7&pretty=true" />
 
 
-🌱 Estudo atualemnte TEI (tecnico em informatica) para um dia me tornar um desenvolvedor full stack.
+🌱 Estudo atualmente TEI (tecnico em informatica) para um dia me tornar um desenvolvedor full stack.
 
 🎓 Estudo no SENAC Tatuapé.
 
