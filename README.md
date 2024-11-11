@@ -13,7 +13,7 @@
 
 ### 📫 Contato:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](in/felipe-dos-santos-aguiar-pereira-9a3a7624a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/felipe-dos-santos-aguiar-pereira-9a3a7624a/?original_referer=https%3A%2F%2Fbr%2Elinkedin%2Ecom%2F&originalSubdomain=br)
 
 
 ### 📚 Apredendo:
