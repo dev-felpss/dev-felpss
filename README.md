@@ -83,8 +83,6 @@ Como desenvolvedor, sempre busco aprimorar e expandir minhas habilidades técnic
 - **Testes e qualidade de código**:
 - 
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-felpss&hide_progress=true)
-
 
 
 ### 📊 GitHub Stats
