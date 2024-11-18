@@ -38,6 +38,22 @@
 [![Rocket League](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.rocketleague.com/pt-br)]
 
 
+
+### SOFT SKILLS
+
+
+[![Comunicação eficaz]
+[![Spotify]
+[![Spotify]
+[![Spotify]
+[![Spotify]
+[![Spotify]
+[![Spotify]
+
+
+
+
+
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-felpss&hide_progress=true)
 
 
