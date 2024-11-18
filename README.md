@@ -39,16 +39,19 @@
 
 
 
-### SOFT SKILLS
+## 🛠️ Soft Skills
 
+Como desenvolvedor, acredito que as habilidades interpessoais são tão importantes quanto o conhecimento técnico. Aqui estão algumas das soft skills que cultivo para me destacar e contribuir de forma eficaz em projetos:
 
-[![Comunicação eficaz]
-[![Spotify]
-[![Spotify]
-[![Spotify]
-[![Spotify]
-[![Spotify]
-[![Spotify]
+- **Comunicação eficaz**: Capacidade de explicar conceitos complexos de maneira clara para facilitar o entendimento da equipe e documentação do código.
+- **Trabalho em equipe**: Colaboração constante com colegas para alcançar os objetivos do projeto de forma eficiente e harmoniosa.
+- **Resolução de problemas**: Abordagem proativa e criativa para identificar e resolver problemas rapidamente.
+- **Adaptabilidade**: Flexibilidade para aprender novas tecnologias e se adaptar a mudanças no desenvolvimento de software.
+- **Gerenciamento de tempo**: Habilidade de priorizar tarefas para manter os projetos no prazo e com qualidade.
+- **Pensamento crítico**: Análise cuidadosa de desafios para encontrar soluções eficazes e inovadoras.
+- **Empatia**: Consideração das necessidades de usuários e colegas para desenvolver soluções que agreguem valor.
+- **Autodidatismo**: Paixão por aprender de forma independente e contínua para melhorar habilidades técnicas e pessoais.
+- **Atenção aos detalhes**: Foco em detalhes para minimizar erros e garantir a precisão do código.
 
 
 
