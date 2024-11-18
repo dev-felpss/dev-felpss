@@ -55,7 +55,33 @@ Como desenvolvedor, acredito que as habilidades interpessoais são tão importan
 
 
 
+## 💻 Hard Skills
 
+Como desenvolvedor, sempre busco aprimorar e expandir minhas habilidades técnicas para enfrentar os desafios do desenvolvimento de software. Aqui estão algumas das hard skills que possuo:
+
+- **Linguagens de programação**: Experiência com **JavaScript**, **Python**, **Java**, **C#**, **C++**.
+- **Desenvolvimento Web**:
+  - **HTML/CSS**: Conhecimento sólido em HTML5 e CSS3.
+  - **Frameworks e bibliotecas**: Experiência com **React**, **Angular**, **Vue.js** (frontend) e **Node.js**, **Django**, **Spring Boot** (backend).
+- **Versionamento de código**:
+  - Familiaridade com **Git** e plataformas como **GitHub** e **GitLab**.
+- **Bancos de dados**:
+  - **SQL**: Experiência com **MySQL**, **PostgreSQL**.
+  - **NoSQL**: Conhecimento em **MongoDB**, **Firebase**.
+- **Desenvolvimento de APIs**:
+  - Criação e consumo de **APIs RESTful** e **GraphQL**.
+- **Estruturas de dados e algoritmos**:
+  - Compreensão de listas, árvores, grafos, e algoritmos para desenvolver código eficiente.
+- **Segurança da aplicação**:
+  - Práticas para proteger aplicações contra vulnerabilidades (injeção de SQL, XSS, CSRF).
+- **Desenvolvimento ágil**:
+  - Experiência com metodologias como **Scrum** e **Kanban**.
+- **DevOps e CI/CD**:
+  - Implementação de pipelines de integração e entrega contínuas com **Jenkins**, **GitHub Actions**, **Travis CI**.
+- **Ferramentas de desenvolvimento**:
+  - Proficiência em **Visual Studio Code**, **IntelliJ IDEA**, **Eclipse**.
+- **Testes e qualidade de código**:
+- 
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-felpss&hide_progress=true)
 
