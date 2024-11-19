@@ -90,5 +90,11 @@ Como desenvolvedor, sempre busco aprimorar e expandir minhas habilidades técnic
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-felpss&show_icons=true&theme=radical)
 
 <img src="https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif?cid=790b7611cgez05fmbv48vlihp0nt8t39rs2vrgjbgdv25p5u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cool GIF" width="500"/>
-<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
